@@ -1,0 +1,2 @@
+n_gaussians: 5
+n_input: 16
